@@ -72,7 +72,7 @@ jobs:
           fi
       - uses: remyxai/outrider@v1
         with:
-          interest-id: 2e092baa-e471-4afd-849c-4ab822cadf4b
+          interest-id: e8c27175-369f-4220-a8b9-a541bfb2fd77
           # Minimum days between recommendation PRs on this repo. '0' lets
           # every scheduled or manually-triggered run open a PR; raise it
           # (e.g. '7') to cap how often Outrider posts.
